@@ -6,5 +6,6 @@ return[
         'dbName' => 'testDB',
         'user' => 'root',
         'password' => '',
+        'charset' => 'utf-8'
     ]
 ];
